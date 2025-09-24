@@ -9,18 +9,18 @@
 - ⚡ Fun fact: I can sleep when feeling sleepy 💤
 
 ### 🛠️ Tech Stack
+## Languages & Frameworks
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=aws)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c++)
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+
+### Specialized Languages
+![Assembly](https://img.shields.io/badge/-Assembly-05122A?style=flat&logo=assemblyscript)
 ![Prolog](https://img.shields.io/badge/-Prolog-05122A?style=flat&logo=prolog)
-![Assembly](https://img.shields.io/badge/-Assembly-05122A?style=flat&logo=assembly)
 ![Scheme](https://img.shields.io/badge/-Scheme-05122A?style=flat&logo=scheme)
 
 ### 📊 GitHub Stats
