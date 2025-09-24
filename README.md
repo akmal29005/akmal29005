@@ -24,7 +24,7 @@
 ![Scheme](https://img.shields.io/badge/-Scheme-05122A?style=flat&logo=scheme)
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akmal29005&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akmal29005&show_icons=true&theme=radical&layout=compact)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akmal29005&theme=radical)
 
