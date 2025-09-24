@@ -17,8 +17,6 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-
-### Specialized Languages
 ![Assembly](https://img.shields.io/badge/-Assembly-05122A?style=flat&logo=assemblyscript)
 ![Prolog](https://img.shields.io/badge/-Prolog-05122A?style=flat&logo=prolog)
 ![Scheme](https://img.shields.io/badge/-Scheme-05122A?style=flat&logo=scheme)
