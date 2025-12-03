@@ -1,36 +1,41 @@
-# Hi there! 👋 I'm Akmal29005
+<div align="center">
 
-## 🚀 Student Dev
+# Hi there! 👋 I'm Akmal
 
+### 🚀 Student Developer
 
-### 💫 What I'm up to
-- 🔭 I'm currently working on **-TBA-**
-- 🌱 I'm always learning and growing
-- ⚡ Fun fact: I can sleep when feeling sleepy 💤
+<br/>
+
+### 💫 About Me
+- 🔭 I’m currently working on **Personal Projects**
+- 🌱 Learning: **Advanced Algorithms & System Design**
+- ⚡ Fun fact: **I have the superpower to sleep on command** 💤
+
+<br/>
 
 ### 🛠️ Tech Stack
-## Languages & Frameworks
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Assembly](https://img.shields.io/badge/-Assembly-05122A?style=flat&logo=assemblyscript)
-![Prolog](https://img.shields.io/badge/-Prolog-05122A?style=flat&logo=prolog)
-![Scheme](https://img.shields.io/badge/-Scheme-05122A?style=flat&logo=scheme)
+<!-- Skill Icons for the mainstream stuff -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,java,cpp,c" />
+  </a>
+</p>
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akmal29005&show_icons=true&theme=radical&layout=compact)
+<!-- Badges for the Niche/Academic stuff -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-Assembly-000000?style=for-the-badge&logo=assemblyscript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Prolog-B40404?style=for-the-badge&logo=prolog&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Scheme-1c4e63?style=for-the-badge&logo=scheme&logoColor=white" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akmal29005&theme=radical)
+<br/>
+
 
 ### 🤝 Connect with me
+<!-- Add your actual links here or remove the line if not needed -->
+<p align="center">
+  <a href="https://github.com/akmal29005"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <!-- Example: <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> -->
+</p>
 
-
-
-
-
----
-⭐️ From [akmal29005](https://github.com/akmal29005)
+</div>
